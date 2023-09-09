@@ -1,6 +1,6 @@
 There are two scripts in this folder:
 
-1. run_dope.py
+1. run_doping.py
 - This is responsible for generating the condtens files containing the hole/electron data.
 - Uncomment the interpolate step at the top if you do not already have the interpolation.bt2 file.
 
